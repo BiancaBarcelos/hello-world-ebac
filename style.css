@@ -1,0 +1,3 @@
+.pseudoTexto::after {
+    content: 'Hello World';
+}
